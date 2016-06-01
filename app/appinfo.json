@@ -1,0 +1,9 @@
+{
+    "id": "com.alanstice.cast",
+    "title": "Cast",
+    "main": "index.html",
+    "type": "web",
+    "vendor": "Alan Stice",
+    "version": "0.1.0",
+    "icon": "icon.png"
+}

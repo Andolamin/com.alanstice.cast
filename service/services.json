@@ -1,0 +1,99 @@
+{
+	"id": "com.alanstice.cast.service",
+	"services": [
+	{
+		"name": "com.alanstice.cast.service",
+		"commands": [
+			{
+				"name": "listDevices",
+				"assistant" : "ListDevicesAssistant",
+				"public": true
+			},
+			{
+				"name": "playMedia",
+				"assistant": "PlayMediaAssistant", 
+				"public": true
+			},
+			{
+				"name": "getDuration",
+				"assistant": "GetDurationAssistant", 
+				"public": true
+			},
+			{
+				"name": "getPosition",
+				"assistant": "GetPositionAssistant", 
+				"public": true
+			},
+			{
+				"name": "getStatus",
+				"assistant": "GetStatusAssistant", 
+				"public": true
+			},
+			{
+				"name": "seek",
+				"assistant": "SeekAssistant", 
+				"public": true
+			},
+			{
+				"name": "jumpTo",
+				"assistant": "JumpToAssistant", 
+				"public": true
+			},
+			{
+				"name": "next",
+				"assistant": "NextAssistant", 
+				"public": true
+			},
+			{
+				"name": "previous",
+				"assistant": "PreviousAssistant", 
+				"public": true
+			},
+			{
+				"name": "fastForward",
+				"assistant": "FastForwardAssistant", 
+				"public": true
+			},
+			{
+				"name": "pause",
+				"assistant": "PauseAssistant", 
+				"public": true
+			},
+			{
+				"name": "play",
+				"assistant": "PlayAssistant", 
+				"public": true
+			},
+			{
+				"name": "rewind",
+				"assistant": "RewindAssistant", 
+				"public": true
+			},
+			{
+				"name": "stop", 
+				"assistant": "StopAssistant", 
+				"public": true
+			},
+			{
+				"name": "getVolume", 
+				"assistant": "GetVolumeAssistant", 
+				"public": true
+			},
+			{
+				"name": "setVolume", 
+				"assistant": "SetVolumeAssistant", 
+				"public": true
+			},
+			{
+				"name": "volumeDown", 
+				"assistant": "VolumeDownAssistant", 
+				"public": true
+			},
+			{
+				"name": "volumeUp", 
+				"assistant": "VolumeUpAssistant", 
+				"public": true
+			}
+		]
+	}]
+}

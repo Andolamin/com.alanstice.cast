@@ -1,0 +1,14 @@
+{
+  "name": "com.alanstice.cast",
+  "assets": [],
+  "devAssets": [],
+  "styles": [
+    "src/styles/**/*.*"
+  ],
+  "main": "index.js",
+  "moduleDir": "src",
+  "libdir": "lib",
+  "paths": [
+    "lib"
+  ]
+}
