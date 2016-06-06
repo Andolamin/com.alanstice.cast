@@ -1,0 +1,23 @@
+{
+  "name": "com.alanstice.cast.service",
+  "version": "0.1.0",
+  "description": "Cast service for LuneOS devices to cast media and other content to webOS TVs.",
+  "main": "",
+  "dependencies": {
+    "node-ssdp": "2.7.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Andolamin/com.alanstice.cast.git"
+  },
+  "author": "Alan Stice <alan@alanstice.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Andolamin/com.alanstice.cast/issues"
+  },
+  "homepage": "https://github.com/Andolamin/com.alanstice.cast#readme"
+}

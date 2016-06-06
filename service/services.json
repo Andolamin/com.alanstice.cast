@@ -7,27 +7,32 @@
 			{
 				"name": "listDevices",
 				"assistant" : "ListDevicesAssistant",
-				"public": true
+				"public": true,
+				"subscribe": true
 			},
 			{
 				"name": "playMedia",
 				"assistant": "PlayMediaAssistant", 
-				"public": true
+				"public": true,
+				"subscribe": true
 			},
 			{
 				"name": "getDuration",
 				"assistant": "GetDurationAssistant", 
-				"public": true
+				"public": true,
+				"subscribe": true
 			},
 			{
 				"name": "getPosition",
 				"assistant": "GetPositionAssistant", 
-				"public": true
+				"public": true,
+				"subscribe": true
 			},
 			{
 				"name": "getStatus",
 				"assistant": "GetStatusAssistant", 
-				"public": true
+				"public": true,
+				"subscribe": true
 			},
 			{
 				"name": "seek",
@@ -77,7 +82,8 @@
 			{
 				"name": "getVolume", 
 				"assistant": "GetVolumeAssistant", 
-				"public": true
+				"public": true,
+				"subscribe": true
 			},
 			{
 				"name": "setVolume", 
