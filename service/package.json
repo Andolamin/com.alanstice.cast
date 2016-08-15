@@ -2,9 +2,9 @@
   "name": "com.alanstice.cast.service",
   "version": "0.1.0",
   "description": "Cast service for LuneOS devices to cast media and other content to webOS TVs.",
-  "main": "",
+  "main": "index.js",
   "dependencies": {
-    "node-ssdp": "2.7.1"
+    "ws": "1.1.0"
   },
   "devDependencies": {},
   "scripts": {
